@@ -5,6 +5,7 @@ Welcome to the classic 2048 game implemented in C! This project provides a conso
 # Building
 
 for macOS/Linux run `make`
+
 for windows: 😢
 
 # Running
