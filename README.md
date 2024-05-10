@@ -2,6 +2,8 @@
 
 Welcome to the classic 2048 game implemented in C! This project provides a console-based version of the popular puzzle game, where the goal is to slide numbered tiles on a 4x4 grid to combine them and create a tile with the number 2048. The game is simple to play but challenging to master.
 
+![Alt text](images/mainScreen.png)
+
 # Building
 
 for macOS/Linux run `make`
