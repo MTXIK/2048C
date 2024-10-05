@@ -9,7 +9,7 @@ int main() {
     int board[4][4] = {0};
     int score = 0;
     char player_name[MAX_SIZE];
-    char file_name[100] = "/Users/mtx/Documents/all/scores.txt";
+    char file_name[100] = "scores.txt";
     char choice_menu;
     char glob;
 
