@@ -12,4 +12,4 @@ for windows: 😢
 
 # Running
 
-Execute the compiled binary `./main2048`
+Execute the compiled binary in a directory `./main2048`
